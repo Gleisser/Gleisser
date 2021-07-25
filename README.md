@@ -8,3 +8,5 @@
 - 💬 Ask me about anything, if I know or not the answer, well thats depends...
 - 📫 How to reach me: https://linkedin.com/in/gleisser
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gleisser&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
